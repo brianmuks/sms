@@ -1,1 +1,10 @@
-<php>
+<?php
+
+echo "muks";
+
+?>
+
+<!HTML><html>
+
+
+</html>
