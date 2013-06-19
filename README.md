@@ -1,1 +1,1 @@
-Please read this before use this code.
+Please read this before  you use the code.
